@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
     <head>
-        <title>@yield('title') | MyBlog</title>
+        <title>@yield('title') | Title</title>
     </head>
     <body>
         @include('layouts.partials.navigation')
